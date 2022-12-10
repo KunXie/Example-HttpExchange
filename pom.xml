@@ -12,7 +12,7 @@
 
   <groupId>kunxie.personal</groupId>
   <artifactId>example-httpexchange</artifactId>
-  <version>2022.0.1-SNAPSHOT</version>
+  <version>2022.12.09-SNAPSHOT</version>
   <name>example-httpexchange</name>
   <description>Codebase project for HttpExchange annotations</description>
 
